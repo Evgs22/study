@@ -1,0 +1,282 @@
+
+html {
+	height: 100%;
+}
+article, aside, details, figcaption, figure, footer, header, main, nav, section, summary {
+	display: block;
+}
+body {
+	font: 12px/18px Arial, sans-serif;
+}
+.wrapper {
+	width: 1150px;
+	margin: 0 auto;
+	min-height: 100%;
+	min-height: 2990px;
+	background-color: beige;
+	background-image: url("http://study/emhtml2/img/fon.gif");
+}
+
+
+/* Header
+-----------------------------------------------------------------------------*/
+.header {
+	height: 180px;
+
+}
+
+.vse{
+	width: 990px;
+	height: 2100px;
+	background-color: white;
+	margin-left: 100px;
+}
+/* Middle
+-----------------------------------------------------------------------------*/
+
+.post1 {
+	width: 590px;
+	height: 440px;
+
+	margin-top: -50px;
+	float: left;
+	background: white;
+
+}
+.zagpost1{
+	margin-top: 20px;
+	font-size: 16pt;
+	margin-left: 15px;
+	background-image: url("http://study/emhtml2/img/setka.gif");
+
+}
+.textpost1{
+	width: 350px;
+	height: 510px;
+	margin-left: 180px;
+	padding: 20px;
+	padding: 20px;
+}
+.fotopost1{
+	margin-right: 20px;
+	padding: 20px;
+	border: solid 1px;
+	width: 540px;
+}
+.knopka{
+	margin-left: 220px;
+	margin-top: 40px;
+
+}
+.knopka2{
+	margin-left: 400px;
+	margin-top: 50px;
+}
+.post1logo{
+	border: 2px double black;
+	border-style: double;
+	border-width: 2px;
+	border-color: antiquewhite;
+	background-color: beige;
+	float: left;
+	margin: 20px;
+}
+.post2 {
+	width: 590px;
+	height: 500px;
+	float: left;
+	margin-top: -1685px;
+	margin-bottom: 25px;
+	background: white;
+
+}
+.post3 {
+	width: 590px;
+	height: 540px;
+	float: left;
+	margin-top: -1200px;
+	background: white;
+
+}
+.content {
+	padding: 0 270px 0 0;
+
+}
+
+
+/* Right Sidebar
+-----------------------------------------------------------------------------*/
+.right-sidebar {
+
+	float: left;
+	width: 375px;
+	height: 2100px;
+	background-color: snow;
+	margin-top: -50px;
+	margin-left: 1px;
+	padding: 12px;
+}
+.categories{
+	margin-top: 90px;
+}
+.textrs{
+	margin-left: 100px;
+	margin-top: -100px;
+	width: 200px;
+	height: 105px;
+}
+#photo1{
+	margin-top: 20px;
+	height: 90px;
+	width: 90px;
+}
+
+.right-sidebar2 {
+	float: left;
+	width: 300px;
+	margin-left: 10px;
+	background-color: #f3f3f3;
+	margin-top: -20px;
+}
+li{
+	list-style-type: none;
+}
+.spiski{
+	background-image: url("http://study/emhtml2/img/spiski.gif");
+	height: 24px;
+	width: 290px;
+	margin-bottom: 9px;
+	margin-left: -35px;
+}
+.spiski2{
+	background-image: url("http://study/emhtml2/img/yel.gif");
+	height: 24px;
+	width: 290px;
+	margin-left: -36px;
+}
+.spiski3{
+	background-image: url("http://study/emhtml2/img/spiski.gif");
+	height: 24px;
+	width: 290px;
+	margin-bottom: 9px;
+	margin-left: -35px;
+}
+.widget{
+	margin-top: 50px;
+}
+/* Footer
+-----------------------------------------------------------------------------*/
+.footer {
+	width: 1150px;
+	margin: 100px auto 0;
+	height: 450px;
+	background: url("http://study/emhtml2/img/footer.jpg");
+	margin-top: -300px;
+}
+
+#photo {
+		margin-top: 20px;
+		height: 90px;
+		width: 90px;
+}
+
+.zaglav{
+	color: white;
+	font-size: 9pt;
+	float: left;
+	height: 300px;
+	width: 600px;
+	margin-left: 95px;
+	margin-top: 50px;
+}
+
+#levo{
+	float: left;
+	margin-right: 50px;
+	height: 230px;
+	width: 580px;
+}
+.text1{
+	margin-left: 100px;
+	margin-top: -100px;
+	font-size: 10pt;
+	margin-right: 60px;
+}
+.text2{
+	margin-left: 0px;
+	margin-top: 30px;
+	font-size: 10pt;
+	margin-right: 60px;
+
+}
+#pravo{
+	height: 350px;
+	width: 350px;
+	margin-top: 40px;
+	float: right;
+}
+
+.zaglav2{
+	font-size: 9pt;
+	color: white;
+}
+
+.input{
+	margin-right: 630px;
+	margin-top: 40px;
+	color: grey;
+}
+
+.input input{
+	margin: 10px;
+	color: grey;
+}
+
+#menu1{
+	float: left;
+	color: black;
+	margin-left: 50px;
+	margin-top: 149px;
+}
+
+#menu1 li>a{
+	display: inline;
+	color: white;
+	margin-right: 50px;
+}
+
+#menu1 li{
+	display: inline;
+}
+
+#logo1{
+	margin-right: 90px;
+	margin-top: 45px;
+}
+
+#logo{
+	width: 177px;
+	height: 38px;
+	padding-left: 100px;
+	padding-top: 50px;
+}
+
+#menu{
+	float: right;
+	color: black;
+	margin-top: -30px;
+}
+
+#menu li>a{
+	display: inline;
+	color: white;
+	margin-right: 50px;
+}
+
+#menu li{
+	display: inline;
+}
+
+/*============================================*/
+
+
